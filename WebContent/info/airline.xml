@@ -1,0 +1,26 @@
+<markers>
+<marker id="1" name="서울/인천" address="인천국제공항 여객터미널" lat="37.459635" lng="126.441697" type="capital"/>
+<marker id="2" name="도쿄/나리타" address="본지바 현나리타 시후루고메 나리타 국제 공항 " lat="35.771900" lng="140.392936" type="capital"/>
+<marker id="3" name="오사카/간사이" address="일본오사카 부이즈미사노 시센슈쿠코키타１ 간사이 국제 공항 " lat="34.431985" lng="135.230480" type="airport"/>
+<marker id="4" name="다카마스" address="일본가가와 현다카마쓰 시７ 다카마츠 공항" lat="34.218803" lng="134.018815" type="airport"/>
+<marker id="5" name="구마모토" address="일본구마모토 현가미마시키 군 구마모토 공항" lat="32.834551" lng="130.858334" type="airport"/>
+<marker id="6" name="시즈오카" address="일본시즈오카 현마키노하라 시사카구치３３３６−４ 시즈오카 공항" lat="34.797146" lng="138.180580" type="airport"/>
+<marker id="7" name="키토키토" address="일본 도야마 현 도야마 시 도야마 공항" lat="36.643735" lng="137.189477" type="airport"/>
+<marker id="8" name="나가사키" address="일본나가사키 현오무라 시미시마마치５９３ 나가사키 공항" lat="32.913535" lng="129.918547" type="airport"/>
+<marker id="9" name="히로시마" address="일본히로시마 현미하라 시혼고초 젠뉴지６４−３１ 히로시마 공항" lat="34.439865" lng="132.919155" type="airport"/>
+<marker id="10" name="요나고" address="일본돗토리 현사카이미나토 시사이노카미초 미호 비행장" lat="35.500619" lng="133.245182" type="airport"/>
+<marker id="11" name="야마구치" address="일본야마구치 현우베 시오키우베６２５ 야마구치 우베 공항 (UBJ)" lat="33.933116" lng="131.275143" type="airport"/>
+<marker id="12" name="홍콩" address="홍콩 Chek Lap Kok, 홍콩 국제 공항" lat="22.308097" lng="113.918502" type="capital"/>
+<marker id="13" name="씨엡립" address="시엠레아프 국제공항, 시엠레아프, 캄보디아" lat="13.411501" lng="103.814016" type="airport"/>
+<marker id="14" name="마카오" address="마카오 국제공항, 마카오" lat="22.157846" lng="113.57647" type="airport"/>
+<marker id="15" name="코타키나발루" address="말레이시아사바코타키나바루 주변공항" lat="5.923119" lng="116.051017" type="airport"/>
+<marker id="16" name="앤토니오" address="안토니오 비 원 팻 국제공항, 타뮤닝, 괌" lat="13.485739" lng="144.800211" type="airport"/>
+<marker id="17" name="김포" address="서울특별시 강서구 하늘길 김포국제공항" lat="37.558612" lng="126.794517" type="capital"/>
+<marker id="18" name="김해" address="부산광역시 강서구 김해국제공항" lat="35.173255" lng="128.946502" type="airport"/>
+<marker id="19" name="청주" address="충청북도 청주시 청주공항" lat="36.722082" lng="127.495673" type="airport"/>
+<marker id="20" name="제주" address="제주특별자치도 제주시 제주공항" lat="33.510387" lng="126.491375" type="airport"/>
+<marker id="21" name="대구" address="대구광역시 동구 대구국제공항" lat="35.899435" lng="128.638397" type="airport"/>
+<marker id="22" name="광주" address="광주광역시 광산구 광주공항" lat="35.139843" lng="126.810955" type="airport"/>
+
+</markers>
+

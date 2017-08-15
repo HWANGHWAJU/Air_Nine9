@@ -1,0 +1,174 @@
+@CHARSET "utf-8";
+.common-sprite,.common-icon_airbusan01,.common-icon_airlineticket_from01,.common-icon_airlineticket_from02,.common-icon_airlineticket_from03,.common-icon_airlineticket_next01,.common-icon_airlineticket_oneway01,.common-icon_airlineticket_oneway02,.common-icon_airlineticket_oneway03,.common-icon_airlineticket_oneway04,.common-icon_airlineticket_oneway04_01,.common-icon_airlineticket_prev01,.common-icon_airlineticket_sale01,.common-icon_airlineticket_to01,.common-icon_airlineticket_to02,.common-icon_airlineticket_to03,.common-icon_airport_info01,.common-icon_airseoul01,.common-icon_alert,.common-icon_asiana01,.common-icon_autologout,.common-icon_baggage01,.common-icon_baggage02,.common-icon_banner_arrow01,.common-icon_banner_arrow02,.common-icon_banner_plus,.common-icon_board,.common-icon_booking_step01,.common-icon_booking_step02,.common-icon_botton_arrow01,.common-icon_botton_arrow02,.common-icon_carlendar,.common-icon_carlendar_left01,.common-icon_carlendar_off01,.common-icon_carlendar_on01,.common-icon_carlendar_on02,.common-icon_carlendar_right01,.common-icon_carlendar_today01,.common-icon_carlendar_today01_small,.common-icon_caution01,.common-icon_check_disabled01,.common-icon_check_off01,.common-icon_check_on01,.common-icon_checkin_cancle01,.common-icon_checkin_complete01,.common-icon_china01,.common-icon_close01,.common-icon_danger01,.common-icon_danger02,.common-icon_danger03,.common-icon_danger04,.common-icon_danger05,.common-icon_danger06,.common-icon_danger07,.common-icon_danger08,.common-icon_daystay01,.common-icon_download,.common-icon_email03,.common-icon_email_arrow01,.common-icon_etc,.common-icon_extraservice_close01,.common-icon_hrgroup_arrow01_off,.common-icon_hrgroup_arrow01_on,.common-icon_important,.common-icon_info_type01,.common-icon_internet_helper01,.common-icon_internet_helper02,.common-icon_internet_helper03,.common-icon_internet_helper04,.common-icon_japan01,.common-icon_journey_from01,.common-icon_journey_oneway01,.common-icon_journey_roundtrip01,.common-icon_journey_to01,.common-icon_korea01,.common-icon_layerpop_close,.common-icon_layerpop_close02,.common-icon_layerpop_close03,.common-icon_location_down,.common-icon_location_up,.common-icon_lookup_cancel01,.common-icon_mail01,.common-icon_mail02,.common-icon_main01,.common-icon_main02,.common-icon_main03,.common-icon_member01,.common-icon_member02,.common-icon_member03,.common-icon_mobile_pass01,.common-icon_morebtn,.common-icon_multicity_info,.common-icon_next02,.common-icon_next_off,.common-icon_next_on,.common-icon_paginate_first,.common-icon_paginate_last,.common-icon_paginate_next,.common-icon_paginate_prev,.common-icon_payment_complete01,.common-icon_prev02,.common-icon_prev_off,.common-icon_prev_on,.common-icon_print01,.common-icon_print02,.common-icon_print03,.common-icon_radio_off01,.common-icon_radio_on01,.common-icon_refund,.common-icon_rerouting01,.common-icon_salezone,.common-icon_salezone02,.common-icon_search01,.common-icon_seat_advanced01,.common-icon_seat_advanced02,.common-icon_seat_arrow_left01,.common-icon_seat_arrow_left02,.common-icon_seat_arrow_right01,.common-icon_seat_arrow_right02,.common-icon_seat_chioce01,.common-icon_seat_chioce02,.common-icon_seat_complete01,.common-icon_seat_not01,.common-icon_seat_not02,.common-icon_seat_restroom01,.common-icon_select01,.common-icon_select_footer02_on,.common-icon_select_footer_on,.common-icon_select_off01,.common-icon_select_off02,.common-icon_select_on01,.common-icon_select_on02,.common-icon_smail01,.common-icon_smallheader_btn01,.common-icon_sms01,.common-icon_sms03,.common-icon_step_oneway01,.common-icon_step_oneway02,.common-icon_step_prev01,.common-icon_step_roundtrip01,.common-icon_step_roundtrip02,.common-icon_tab_from_off01,.common-icon_tab_from_on01,.common-icon_tab_to_off01,.common-icon_tab_to_on01,.common-icon_taiwan01,.common-icon_toggle_btn01_off,.common-icon_toggle_btn01_on,.common-icon_usa01,.common-icon_warning01,.common-img_browser01,.common-img_browser02,.common-img_browser03,.common-img_browser04{background-image:url('/CW/public/images/icons/common-s57efedab2d.png');background-repeat:no-repeat}.common-icon_airbusan01{background-position:0 0}.common-icon_airlineticket_from01{background-position:0 -80px}.common-icon_airlineticket_from02{background-position:0 -142px}.common-icon_airlineticket_from03{background-position:0 -202px}.common-icon_airlineticket_next01{background-position:0 -258px}.common-icon_airlineticket_oneway01{background-position:0 -322px}.common-icon_airlineticket_oneway02{background-position:0 -371px}.common-icon_airlineticket_oneway03{background-position:0 -416px}.common-icon_airlineticket_oneway04{background-position:0 -466px}.common-icon_airlineticket_oneway04_01{background-position:0 -510px}.common-icon_airlineticket_prev01{background-position:0 -554px}.common-icon_airlineticket_sale01{background-position:0 -618px}.common-icon_airlineticket_to01{background-position:0 -692px}.common-icon_airlineticket_to02{background-position:0 -756px}.common-icon_airlineticket_to03{background-position:0 -817px}.common-icon_airport_info01{background-position:0 -872px}.common-icon_airseoul01{background-position:0 -1052px}.common-icon_alert{background-position:0 -1132px}.common-icon_asiana01{background-position:0 -1186px}.common-icon_autologout{background-position:0 -1266px}.common-icon_baggage01{background-position:0 -1381px}.common-icon_baggage02{background-position:0 -1457px}.common-icon_banner_arrow01{background-position:0 -1552px}.common-icon_banner_arrow02{background-position:0 -1603px}.common-icon_banner_plus{background-position:0 -1656px}.common-icon_board{background-position:0 -1726px}.common-icon_booking_step01{background-position:0 -1782px}.common-icon_booking_step02{background-position:0 -1842px}.common-icon_botton_arrow01{background-position:0 -1902px}.common-icon_botton_arrow02{background-position:0 -1958px}.common-icon_carlendar{background-position:0 -2014px}.common-icon_carlendar_left01{background-position:0 -2072px}.common-icon_carlendar_off01{background-position:0 -2158px}.common-icon_carlendar_on01{background-position:0 -2234px}.common-icon_carlendar_on02{background-position:0 -2310px}.common-icon_carlendar_right01{background-position:0 -2368px}.common-icon_carlendar_today01{background-position:0 -2454px}.common-icon_carlendar_today01_small{background-position:0 -2530px}.common-icon_caution01{background-position:0 -2586px}.common-icon_check_disabled01{background-position:0 -2652px}.common-icon_check_off01{background-position:0 -2712px}.common-icon_check_on01{background-position:0 -2772px}.common-icon_checkin_cancle01{background-position:0 -2832px}.common-icon_checkin_complete01{background-position:0 -2942px}.common-icon_china01{background-position:0 -3052px}.common-icon_close01{background-position:0 -3105px}.common-icon_danger01{background-position:0 -3165px}.common-icon_danger02{background-position:0 -3286px}.common-icon_danger03{background-position:0 -3407px}.common-icon_danger04{background-position:0 -3528px}.common-icon_danger05{background-position:0 -3649px}.common-icon_danger06{background-position:0 -3770px}.common-icon_danger07{background-position:0 -3891px}.common-icon_danger08{background-position:0 -4013px}.common-icon_daystay01{background-position:0 -4135px}.common-icon_download{background-position:0 -4211px}.common-icon_email03{background-position:0 -4272px}.common-icon_email_arrow01{background-position:0 -4332px}.common-icon_etc{background-position:0 -4381px}.common-icon_extraservice_close01{background-position:0 -4491px}.common-icon_hrgroup_arrow01_off{background-position:0 -4551px}.common-icon_hrgroup_arrow01_on{background-position:0 -4595px}.common-icon_important{background-position:0 -4639px}.common-icon_info_type01{background-position:0 -4693px}.common-icon_internet_helper01{background-position:0 -4747px}.common-icon_internet_helper02{background-position:0 -4843px}.common-icon_internet_helper03{background-position:0 -4941px}.common-icon_internet_helper04{background-position:0 -5038px}.common-icon_japan01{background-position:0 -5132px}.common-icon_journey_from01{background-position:0 -5185px}.common-icon_journey_oneway01{background-position:0 -5239px}.common-icon_journey_roundtrip01{background-position:0 -5286px}.common-icon_journey_to01{background-position:0 -5345px}.common-icon_korea01{background-position:0 -5399px}.common-icon_layerpop_close{background-position:0 -5452px}.common-icon_layerpop_close02{background-position:0 -5503px}.common-icon_layerpop_close03{background-position:0 -5559px}.common-icon_location_down{background-position:0 -5618px}.common-icon_location_up{background-position:0 -5672px}.common-icon_lookup_cancel01{background-position:0 -5726px}.common-icon_mail01{background-position:0 -5838px}.common-icon_mail02{background-position:0 -5900px}.common-icon_main01{background-position:0 -5960px}.common-icon_main02{background-position:0 -6070px}.common-icon_main03{background-position:0 -6180px}.common-icon_member01{background-position:0 -6290px}.common-icon_member02{background-position:0 -6388px}.common-icon_member03{background-position:0 -6480px}.common-icon_mobile_pass01{background-position:0 -6556px}.common-icon_morebtn{background-position:0 -6736px}.common-icon_multicity_info{background-position:0 -6783px}.common-icon_next02{background-position:0 -6839px}.common-icon_next_off{background-position:0 -6885px}.common-icon_next_on{background-position:0 -6934px}.common-icon_paginate_first{background-position:0 -6983px}.common-icon_paginate_last{background-position:0 -7039px}.common-icon_paginate_next{background-position:0 -7095px}.common-icon_paginate_prev{background-position:0 -7151px}.common-icon_payment_complete01{background-position:0 -7207px}.common-icon_prev02{background-position:0 -7319px}.common-icon_prev_off{background-position:0 -7365px}.common-icon_prev_on{background-position:0 -7414px}.common-icon_print01{background-position:0 -7463px}.common-icon_print02{background-position:0 -7525px}.common-icon_print03{background-position:0 -7585px}.common-icon_radio_off01{background-position:0 -7645px}.common-icon_radio_on01{background-position:0 -7703px}.common-icon_refund{background-position:0 -7761px}.common-icon_rerouting01{background-position:0 -7840px}.common-icon_salezone{background-position:0 -7910px}.common-icon_salezone02{background-position:0 -7982px}.common-icon_search01{background-position:0 -8045px}.common-icon_seat_advanced01{background-position:0 -8102px}.common-icon_seat_advanced02{background-position:0 -8161px}.common-icon_seat_arrow_left01{background-position:0 -8223px}.common-icon_seat_arrow_left02{background-position:0 -8278px}.common-icon_seat_arrow_right01{background-position:0 -8333px}.common-icon_seat_arrow_right02{background-position:0 -8388px}.common-icon_seat_chioce01{background-position:0 -8443px}.common-icon_seat_chioce02{background-position:0 -8498px}.common-icon_seat_complete01{background-position:0 -8555px}.common-icon_seat_not01{background-position:0 -8607px}.common-icon_seat_not02{background-position:0 -8663px}.common-icon_seat_restroom01{background-position:0 -8724px}.common-icon_select01{background-position:0 -8791px}.common-icon_select_footer02_on{background-position:0 -8844px}.common-icon_select_footer_on{background-position:0 -8888px}.common-icon_select_off01{background-position:0 -8932px}.common-icon_select_off02{background-position:0 -8985px}.common-icon_select_on01{background-position:0 -9031px}.common-icon_select_on02{background-position:0 -9084px}.common-icon_smail01{background-position:0 -9130px}.common-icon_smallheader_btn01{background-position:0 -9186px}.common-icon_sms01{background-position:0 -9243px}.common-icon_sms03{background-position:0 -9305px}.common-icon_step_oneway01{background-position:0 -9365px}.common-icon_step_oneway02{background-position:0 -9412px}.common-icon_step_prev01{background-position:0 -9459px}.common-icon_step_roundtrip01{background-position:0 -9516px}.common-icon_step_roundtrip02{background-position:0 -9573px}.common-icon_tab_from_off01{background-position:0 -9630px}.common-icon_tab_from_on01{background-position:0 -9692px}.common-icon_tab_to_off01{background-position:0 -9754px}.common-icon_tab_to_on01{background-position:0 -9819px}.common-icon_taiwan01{background-position:0 -9884px}.common-icon_toggle_btn01_off{background-position:0 -9937px}.common-icon_toggle_btn01_on{background-position:0 -9983px
+}.common-icon_usa01{background-position:0 -10029px}.common-icon_warning01{background-position:0 -10082px}.common-img_browser01{background-position:0 -10157px}
+.common-img_browser02{background-position:0 -10238px}.common-img_browser03{background-position:0 -10322px}.common-img_browser04{background-position:0 -10402px}
+.VirtualSelector{content:"";display:inline-block}.VirtualArrow{content:"";display:block;width:0;height:0}.IrText{position:absolute;overflow:hidden;line-height:0;width:0;height:0;border:0}
+.Hidden-txt{display:inline-block;overflow:hidden;text-indent:-1000px}
+
+.company #content{padding:165px 0 0}
+.company #content .content_inner{padding:0 0 60px}
+.company .tbl-fot-info{padding-bottom:60px;border-bottom:1px solid #a9a9a9}
+.list-tab.type-2{margin-top:45px}
+.list-tab.type-2>li{float:left;width:25%}
+.list-tab.type-2>li a{display:block;margin-left:-1px;margin-top:-1px;border:1px solid #d9d9d9;font-size:16px;line-height:49px;color:#000;text-align:center}
+.list-tab.type-2>li.on{position:relative;z-index:1}
+.list-tab.type-2>li.on a{border-color:#008a7c;background-color:#008a7c;color:#fff}
+.list-tab.type-2:after{display:block;clear:both;visibility:hidden;height:0;content:''}
+
+.area-summary-1{position:relative;margin-top:40px;margin-bottom:35px;padding-top:380px;background:url("../../images/company/img_summary_1.jpg") no-repeat center top;}
+.area-summary-2{margin-top:55px}
+.area-summary-2 .title{font-size:20px;font-weight:bold}
+.area-summary-2>ul:before{display:block;width:545px;height:467px;margin:90px auto 0;background:url("../../images/company/sp_summary.png") no-repeat 0 0;background-position:0 -100px;content:""}
+.area-summary-2>ul{position:relative;padding-top:59px}
+.area-summary-2>ul>li{position:absolute;font-size:20px;font-weight:bold;color:#008477}
+.area-summary-2>ul>li.right{text-align:right}
+.area-summary-2>ul>li ul{margin-top:13px}
+.area-summary-2>ul>li li{font-weight:normal}
+.area-summary-2 .summary1{top:64px;left:363px}
+.area-summary-2 .summary2{top:423px;left:47px}
+.area-summary-2 .summary3{top:423px;right:39px}
+.list-summary-2 li{position:absolute;top:30px;width:326px;height:120px;padding-top:30px;background-color:#efefef}
+.list-summary-2 li.li-1{left:0;padding-right:60px;text-align:right}
+.list-summary-2 li.li-2{right:0;padding-left:60px}
+.list-summary-2 li p{font-size:20px;line-height:28px;color:#000}
+.list-summary-2 li p.tit{margin-bottom:15px;font-weight:600;font-size:16px;line-height:20px}
+.tbl-input-row01 table.type-1 tr th{padding-left:20px;font-weight:600}
+.area-ceo{position:relative;margin-top:46px}
+.area-ceo:after{display:block;clear:both;visibility:hidden;height:0;content:''}
+.area-ceo .img_represent{margin-left:-48px;margin-bottom:-61px}
+.area-ceo .tit{position:absolute;top:88px;left:412px;font-size:31px;color:#333333;line-height:1.5em}
+.box-ceo{position:absolute;left:412px;top:205px;width:575px;line-height:24px;font-size:13px;color:#333}
+.box-ceo .thanks{margin-top:18px}
+.box-ceo .sign{margin-top:48px}
+.box-ceo .sign strong{display:block;margin-top:16px;font-size:24px;font-weight:normal}
+.area-history{position:relative;margin-top:60px;padding-top:350px}
+.area-history:before{display:block;position:absolute;top:0;left:50%;width:1000px;height:320px;margin-left:-500px;background:url("../../images/company/img_history.jpg") no-repeat center top;content:''}
+.area-history .box-history{position:relative;margin-top:30px;padding-top:20px;padding-left:128px;color:#000}
+.area-history .box-history h2{position:absolute;top:0;left:0;padding-top:20px;font-weight:600;font-size:24px}
+.area-history .box-history h2:before{display:block;position:absolute;top:0;left:0;width:29px;height:3px;background-color:#000;content:''}
+.area-history .box-history>ul>li{position:relative;margin-top:28px;font-size:13px;line-height:24px}
+.area-history .box-history>ul>li:first-child{margin-top:0}
+.area-history .box-history>ul>li .month{position:absolute;top:0;left:0}
+.area-history .box-history>ul>li dl{display:table;margin-bottom:30px}
+.area-history .box-history>ul>li dl dt{display:table-cell;padding-right:20px}
+.area-history .box-history>ul>li dl dd{display:block}
+.box-ci{position:relative;margin-top:60px}
+.box-ci.type-1{padding-bottom:380px}
+.box-ci.type-1:after{display:block;position:absolute;bottom:0;left:50%;width:100%;height:320px;margin-left:-50%;background:url(../../images/company/sp_ci.jpg) no-repeat 0 -50px;content:''}
+.box-ci .box-unit{position:relative;font-size:13px;line-height:24px;color:#231f20}
+.box-ci .box-unit h2{font-size:20px;font-weight:bold}
+.box-ci .box-unit h2+p{margin-top:9px}
+.box-ci .box-unit+.img{margin-top:25px}
+.area-relative{position:relative;margin-top:60px;padding-top:356px}
+.area-relative:before{display:block;position:absolute;top:0;left:50%;width:1000px;height:320px;margin-left:-500px;background:url(/CW/public/images/company/img_relative.jpg) no-repeat center top;content:''}
+.area-relative .box-relative:after{display:block;clear:both;visibility:hidden;height:0;content:''}
+.area-relative .box-relative .box-unit{float:left;width:479px;margin-left:42px}
+.area-relative .box-relative .box-unit:first-child{margin-left:0}
+.tbl-1{border-style:solid;border-width:1px 0;border-color:#bfbfbf;font-size:13px;line-height:20px;color:#000}
+.tbl-1 tr th{padding:10px 20px;border-style:solid;border-width:1px 0 0 0;border-color:#d9d9d9;text-align:left}
+.tbl-1 tr td{padding:10px;border-style:solid;border-width:1px 0 0 1px;border-color:#d9d9d9}
+.tbl-1 tr td.td-1{padding-left:20px}
+.tbl-1 tr td.td-1.type-1{color:#000}
+.tbl-1 tr:first-child th,.tbl-1 tr:first-child td{border-top:none}
+.list-airplane{margin-top:40px;font-size:0;text-align:center}
+.list-airplane li{display:inline-block;margin:0 3px}
+.list-airplane li img{vertical-align:top}
+.txt-info-1{margin:15px 0;font-size:13px;line-height:18px;color:#000}
+
+html:lang(ko) .philosophy_zone .asiana .logo_title a{width:117px;height:32px;background:url("/CW/public/images/common/img_flyasiana02_off.png") no-repeat 0 0}
+html:lang(ko) .philosophy_zone .asiana.off .logo_title a{width:117px;height:32px;background:url("/CW/public/images/common/img_flyasiana02.png") no-repeat 0 0}
+
+.philosophy_zone{position:relative;padding-top:68px}
+.philosophy_zone>li .philosophy_area{display:none}
+.philosophy_zone>li.off .philosophy_area{display:block}
+.philosophy_zone.jsShowHide .jsArea.off{display:block}
+.philosophy_zone.jsShowHide .jsArea{animation:none !important}
+.philosophy_zone .logo_title{position:absolute;width:50%}
+.philosophy_zone .logo_title a{display:inline-block;overflow:hidden;font-size:0;line-height:0;text-indent:-999em}
+.philosophy_zone .asiana .logo_title a{width:150px;height:32px;background:url("/CW/public/images/common/img_flyasiana02_off_en.jpg") no-repeat 0 0}
+.philosophy_zone .asiana.off .logo_title a{width:150px;height:32px;background:url("/CW/public/images/common/img_flyasiana02_en.jpg") no-repeat 0 0}
+.philosophy_zone .asiana .hidden-txt{display:none}
+.philosophy_zone .asiana.off .hidden-txt{display:block}
+.philosophy_zone .airseoul .logo_title a{width:117px;height:32px;background:url("/CW/public/images/common/img_airseoul.png") no-repeat 0 0}
+.philosophy_zone .airseoul.off .logo_title a{width:117px;height:32px;background:url("/CW/public/images/common/img_airseoul_off.png") no-repeat 0 0}
+.philosophy_zone .airseoul .hidden-txt{display:none}
+.philosophy_zone .airseoul.off .hidden-txt{display:block}
+.philosophy_zone>li:first-child .logo_title{top:36px;left:0;text-align:right}
+.philosophy_zone>li:first-child .logo_title a{margin-right:25px}
+.philosophy_zone>li:first-child .philosophy_area{background:url("/CW/public/images/company/bg_asiana.png") no-repeat 50% 24px}
+.philosophy_zone logo_title a{margin-right:25px}
+.philosophy_zone>li:first-child+li .logo_title{top:52px;left:50%;text-align:left}
+.philosophy_zone>li:first-child+li .logo_title a{margin-left:40px}
+.philosophy_zone>li:first-child+li .logo_title:before{display:block;position:absolute;left:0;top:-12px;width:1px;height:40px;background:#d9d9d9;content:""}
+.philosophy_zone .philosophy_area{padding-top:50px}
+.philosophy_zone .asiana .philosophy_box+.philosophy_box{margin-top:60px}
+.philosophy_zone .asiana .philosophy_box .title{font-size:20px;font-weight:bold}
+.philosophy_zone .asiana .philosophy_box .philosophy{text-align:center}
+.philosophy_zone .asiana .philosophy_box .philosophy .txt_type01{padding:14px 20px 18px;margin:0 194px;border:4px solid #ff4d4d;border-radius:100px;font-size:20px;font-weight:bold}
+.philosophy_zone .asiana .philosophy_box.type01 .philosophy{padding-top:35px}
+.philosophy_zone .asiana .philosophy_box.type01 p{font-size:20px;font-weight:bold;text-align:center;line-height:32px}
+.philosophy_zone .asiana .philosophy_box.type02{position:relative;padding-top:20px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose_logo{position:absolute;top:309px;left:50%;margin-left:-70px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose{position:relative;width:428px;height:361px;margin:60px auto 0;background:url("/CW/public/images/company/sp_philosophy.png") no-repeat 0 0}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li{position:absolute;font-size:20px;font-weight:bold}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child{top:12px;right:-50px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li{bottom:123px;right:-50px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li{bottom:-30px;left:185px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li+li{bottom:123px;left:-50px}
+.philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li+li+li{top:12px;left:-50px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal{position:relative;width:723px;height:320px;margin:40px auto 0;background:url("../../images/company/sp_philosophy.png") no-repeat 0 0;background-position:0 -361px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal strong{position:absolute;top:78px;width:220px;font-size:20px;font-weight:bold}
+.philosophy_zone .asiana .philosophy_box.type03 .goal ul{position:absolute;top:138px;width:220px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal ul li{margin-top:12px;font-size:13px;line-height:20px;letter-spacing:-1px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal ul li:first-child{margin:0}
+.philosophy_zone .asiana .philosophy_box.type03 .goal>li:first-child strong{left:75px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal>li:first-child ul{left:75px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal>li:first-child+li strong{right:55px}
+.philosophy_zone .asiana .philosophy_box.type03 .goal>li:first-child+li ul{right:55px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation{position:relative;width:838px;height:220px;margin:40px auto 0;background:url("../../images/company/sp_philosophy.png") no-repeat 0 0;background-position:0 -681px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation>li{position:absolute;top:59px;width:150px;height:120px;font-size:20px;font-weight:bold}
+.philosophy_zone .asiana .philosophy_box.type04 .operation li ul{margin-top:11px;font-size:13px;font-weight:normal;line-height:20px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child{left:36px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li{left:243px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li+li{left:450px}
+.philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li+li+li{right:36px}
+.philosophy_zone .asiana .philosophy_box.type05 .philosophy{text-align:left;margin-top:20px}
+.philosophy_zone .airseoul .philosophy_area{margin-top:60px}
+.philosophy_zone .airseoul .text_area p{position:relative;height:114px;margin:0 75px 0 155px;border-width:3px;border-style:solid;border-radius:100px;font-size:20px;font-weight:bold;color:#333;text-align:center;line-height:114px}
+.philosophy_zone .airseoul .text_area p+p{margin-top:60px}
+.philosophy_zone .airseoul .text_area strong{position:absolute;top:-24px;left:-77px;display:block;width:120px;height:120px;border-radius:100px;border-width:25px;border-style:solid;background:#fff}
+.philosophy_zone .airseoul .text_area .operation{border-color:#008a7b}
+.philosophy_zone .airseoul .text_area .operation strong{border-color:#008a7b}
+.philosophy_zone .airseoul .text_area .philosophy{border-color:#39ccb1}
+.philosophy_zone .airseoul .text_area .philosophy strong{border-color:#39ccb1}
+.philosophy_zone .airseoul .text_area .slogan{border-color:#a9a9a9}
+.philosophy_zone .airseoul .text_area .slogan strong{border-color:#a9a9a9}
+.philosophy_zone .airseoul .service:before{display:block;width:464px;height:189px;margin:20px auto 0;background:url("../..images/company/sp_philosophy.png") no-repeat 0 0;background-position:0 -901px;content:""}
+.philosophy_zone .airseoul .service:after{display:block;clear:both;content:""}
+.philosophy_zone .airseoul .service li{float:left;width:198px;height:198px;margin-left:67px;border:1px solid #ebebeb;background:#efefef;border-radius:100px;font-size:20px;text-align:center}
+.philosophy_zone .airseoul .service li:first-child{margin-left:130px}
+.philosophy_zone .airseoul .service li:before{display:block;content:"";height:70px;margin:44px auto 16px;background:url("../../images/company/sp_philosophy.png") no-repeat 0 0}
+.philosophy_zone .airseoul .service li.best:before{width:65px;background-position:-464px -901px}
+.philosophy_zone .airseoul .service li.happy:before{width:56px;background-position:-534px -901px}
+.philosophy_zone .airseoul .service li.trust:before{width:68px;background-position:-604px -901px}
+.philosophy_zone .hidden_ir{overflow:hidden;position:absolute;left:-999em;text-indent:-999em;width:0;height:0;line-height:0;font-size:0}
+
+
+html:lang(en) .area-ceo{position:relative;margin-top:46px}html:lang(en) .area-ceo:after{display:block;clear:both;visibility:hidden;height:0;content:''}
+html:lang(en) .area-ceo .img_represent{margin-left:-48px;margin-bottom:-61px}
+html:lang(en) .area-ceo .tit{position:absolute;top:88px;left:412px;font-size:26px;color:#333333;line-height:1.2em}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02{position:relative;padding-top:20px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose_logo{position:absolute;top:309px;left:50%;margin-left:-70px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose{position:relative;width:428px;height:361px;margin:60px auto 0;background:url("../../images/company/sp_philosophy.png") no-repeat 0 0}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li{position:absolute;font-size:20px;font-weight:bold}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child{top:12px;right:-100px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li{bottom:123px;right:-130px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li{bottom:-30px;left:135px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li+li{bottom:123px;left:-80px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type02 .purpose li:first-child+li+li+li+li{top:12px;left:-110px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation{position:relative;width:838px;height:220px;margin:40px auto 0;background:url("../../images/company/sp_philosophy.png") no-repeat 0 0;background-position:0 -681px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation>li{position:absolute;top:44px;width:150px;height:120px;font-size:18px;font-weight:bold}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation li ul{margin-top:11px;font-size:13px;font-weight:normal;line-height:16px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child{left:36px}html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li{left:243px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li+li{left:450px}
+html:lang(en) .philosophy_zone .asiana .philosophy_box.type04 .operation>li:first-child+li+li+li{right:36px}
